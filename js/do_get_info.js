@@ -76,7 +76,7 @@ function doComplete() {
 }
 
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyCoeni46IJO1cHgkYamQFqfqhpT-JJHwtOBsA2GFHxU6GDyQuseGC0BN0Y0iPpCfE1eA/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyVhsOZHWZ3BQBAuZXWnGl-OYs96R4om-i2PraiXlFARIBjxFkGiyZjKZVfpCszw5b_1A/exec';
 
 const loading = document.querySelector('.js-loading');
 const successMessage = document.querySelector('.js-success-message');
